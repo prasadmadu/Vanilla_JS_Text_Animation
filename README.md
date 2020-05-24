@@ -1,0 +1,1 @@
+# 04_Vanilla_JS_Text_Animation
